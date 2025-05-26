@@ -1,4 +1,4 @@
-﻿# Equiprentals_Mern_app
+
 # EquipRentals - Equipment Renting System (MERN Stack)
 
 **EquipRentals** is the premier online platform for renting a wide range of equipment and devices. Whether you need the latest tech gadgets, outdoor gear, or specialized tools for events, our platform offers a convenient, affordable, and hassle-free rental solution.
